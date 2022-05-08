@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Bridge Rectifier.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Bridge Rectifier.SchDoc|FileName=CPU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Bridge Rectifier.SchDoc|FileName=Display.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Bridge Rectifier.SchDoc|FileName=Opam.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Bridge Rectifier.SchDoc|FileName=Transistor.SchDoc|SheetNumber=4
